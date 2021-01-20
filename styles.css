@@ -1,0 +1,54 @@
+h1{
+    text-align:center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+p{
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    background-image:url("https://ibb.co/Wg255JN");
+}
+body{
+    background-image:url("https://ibb.co/Wg255JN");
+    background-color:#FF7B7B;
+    background: rgb(246,0,0);
+	background: linear-gradient(90deg, rgba(246,0,0,1) 0%, rgba(9,9,121,1) 100%, 	rgba(192,0,255,1) 100%);
+}
+img{
+    border: 2px solid #FF0454;
+}
+.ggg{
+    float:right;
+    margin-left:auto;
+    margin-right:auto;
+    width:350px;
+    height:300px;
+}
+
+.ttt{
+    height: 300px;
+    width: 350px;
+}
+li{
+    font-family: 'Roboto', sans-serif;
+}
+
+.weewoothepopo{
+    width:310px;
+    border: 2px solid #FF0454;
+}
+.weewoo{
+    
+    float:right;
+    width:310px;
+    border: 2px solid #FF0454;
+    position:relative; top:-189px;
+    
+}
+a{
+    text-align:right;
+    float:right;
+     position:relative; right:-40px;
+}
+h1:hover{
+    color:#4E0630;
+}
